@@ -1,6 +1,6 @@
-# Ollama Chatbot with Streamlit
-
 ![Ollama Chatbot with Streamlit](https://raw.githubusercontent.com/chiragjoshi12/chatbot_with_ollama_and_streamlit/main/img/banner.png)
+
+# Ollama Chatbot with Streamlit
 
 This project is a simple chatbot application built using Streamlit and the Ollama language model. The chatbot can interact with users, maintaining a conversation history and streaming responses in real-time.
 
