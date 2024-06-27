@@ -68,4 +68,4 @@ This project is a simple chatbot application built using Streamlit and the Ollam
 - [Streamlit](https://streamlit.io/) for providing an easy way to create web applications for machine learning and data science.
 - [Ollama](https://ollama.ai/) for the language models used in the chatbot.
 
-Readme made with 💖 using [README Generator by Chirag Joshi](https://github.com/chiragjoshi12/readme-generator)
+Readme made with 💖 using [README Generator by Chirag Joshi](https://github.com/chiragg-ai/readme-generator)
